@@ -4,7 +4,7 @@ The kickstart to the development process by setting up the server and database.
 
 ## WAMP (Windows, Apache, MySQL, PHP)
 
-[WAMP Homepage](http://www.wampserver.com/en)
+[WAMP Homepage](http://www.wampserver.com/en
 
 ### Apache
 
@@ -43,3 +43,13 @@ File that maps names to IPs, locally.
 **Example**
 
 - Change hosts file so accessing `dev.flag` redirects to localhost.
+
+
+## Text Editors
+
+There are a lot of text editors and they're really a matter of preference:
+
+- [Atom](https://atom.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Sublime Text](https://www.sublimetext.com/)
+- [Vim](http://www.vim.org/) 😂

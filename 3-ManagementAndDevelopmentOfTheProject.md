@@ -74,10 +74,15 @@ A VCS is a software that keeps track of changes made to files (normally code). E
 There are different types of VCS:
 
 - Local
+
 ![local][LocalVCS]
+
 - Centralized
+
 ![local][CentralizedVCS]
+
 - Distributed
+
 ![local][DistributedVCS]
 
 [LocalVCS]: https://git-scm.com/book/en/v2/images/local.png

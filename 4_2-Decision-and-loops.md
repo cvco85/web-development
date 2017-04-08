@@ -59,11 +59,17 @@ Every time the code inside the loop executes, the expression is evaluated, if it
 var counter = 0;
 var sum = 0;
 
-while (counter < 10) {
-    sum += counter;
-    console.log(sum);
-
-    counter += 1
-    // counter++ does the same
+while (counter > 10) {
+  sum = sum + 5;
+  
+  console.log(sum);
+  counter = counter + 1;
 }
+
+// 1 - counter = 0 | sum = 0
+// 2 - counter = 1 | sum = 5
+// 3 - counter = 2 | sum = 10
+// ...
+// 10 - counter = 10 | sum = 50
 ```
+

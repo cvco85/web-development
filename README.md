@@ -8,5 +8,7 @@ A collection of documents about web development
   * [Variables](4_1-Variables.md)
   * [Decision and loops](4_2-Decision-and-loops.md)
   * [Functions](4_3-Functions.md)
+5. [XHTML](5_0-Concepts-about-XHTML.md)
+  * [Common elements and attributes](5_1-HTML-common-elements.md)
 
 

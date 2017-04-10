@@ -79,6 +79,6 @@ A program is a list of statements. Statements are *more-or-less* and atomic piec
 - Get the bread
 - Open the bread
 
-The words a language supports and "understands" are called the **language syntax**. The *syntax* changes from language to language, however, a lot of the principles are the same, those principles are called **meta programming**.
+The words a language supports and "understands" are called the **language syntax**. The *syntax* changes from language to language, however, a lot of the principles are the same.
 
 Basically, if you understand the principles and concepts, you understand how most of languages work, and that's what matters.

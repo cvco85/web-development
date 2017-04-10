@@ -17,7 +17,7 @@ function sayHello() {
 
   while (numberOfTimesSaid < numberOfTimes) {
     console.log('Hello');
-      numberOfTimesSaid += 1;
+    numberOfTimesSaid += 1;
   }
 }
 

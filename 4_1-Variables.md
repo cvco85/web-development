@@ -70,3 +70,27 @@ Logical operators are used to make decisions recurring to variable values, also 
 
 (1+2) < 0 AND (1+3) <= 4 # false
 ```
+
+### String
+
+A string is a sequence of characters, it can be understood as a data type but in its genesis it is an array of bytes that stores a sequence of elements.
+
+```javascript
+var name = "FLAG Lisboa";
+var course = "Introduction to web development";
+```
+
+### Array
+
+An array is a data structure consisting in a collection of elements (either values of variables), identified by at least one index or key. The simples data structure is a linear array, also called one-dimensional array. Array indexes start on 0.
+
+```javascript
+var shoppingCart = [
+  "Ball",
+  "Bread",
+  "Milk"
+];
+
+shoppingCart[0] // Ball
+shoppingCart[2] // Milk
+```

@@ -11,16 +11,15 @@ A function is no more than a piece of code than can be *called* from other part 
 The function below says "Hello" 10 times.
 
 ```javascript
-
 function sayHello() {
-  console.log('Hello')
+  var numberOfTimes = 10;
+  var numberOfTimesSaid = 0;
+
+  while (numberOfTimesSaid < numberOfTimes) {
+    console.log('Hello');
+      numberOfTimesSaid += 1;
+  }
 }
 
-var numberOfTimes = 10;
-var numberOfTimesSaid = 0;
-
-while (numberOfTimesSaid < numberOfTimes) {
-    sayHello();
-    numberOfTimesSaid += 1;
-}
+sayHello();
 ```

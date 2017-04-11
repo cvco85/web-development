@@ -28,7 +28,7 @@ Example:
 
 ```html
 <!-- Works -->
-<div>Test div</di>
+<div>Test div</div>
 
 <!-- Doesn't work -->
 <DIV>Test div</DIV>
